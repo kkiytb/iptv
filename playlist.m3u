@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="Religious",CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg" group-title="Kids",Disney Channel Japan
+http://202.60.106.14:21585/1344/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Kids",Disney Junior Japan
+http://202.60.106.14:21585/1338/playlist.m3u8
+#EXTINF:-1 tvg-id="JapaNews24.jp" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOMUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj" group-title="News",JapaNews24
+https://ythlsgo.onrender.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/512px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan
+http://203.162.235.41:13092
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News",NHK World Premium
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 tvg-id="PokemonKidsTVJapanese.jp" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="Animation;Kids",Pokemon Kids TV Japanese
+https://ythlsgo.onrender.com/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
